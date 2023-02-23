@@ -1,0 +1,45 @@
+form {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.3rem;
+  background-color: rgba(0, 0, 0, 0.336);
+  padding: 2.5rem;
+  border-radius: 1rem;
+  margin-top: 50px;
+  font-family: IRANSANS;
+}
+
+form h1 {
+  font-size: 20px;
+  font-weight: bolder;
+  color: #fff;
+}
+
+form 
+input {
+  width: 92%;
+  padding: 0.8rem;
+  border: none;
+  border-radius: 0.5rem;
+  outline: none;
+}
+
+form button{
+  width: 100%;
+  padding: 0.8rem;
+  border: none;
+  border-radius: 0.5rem;
+  outline: none;
+  font-weight: bolder;
+}
+
+
+form select {
+  width: 100%;
+  padding: 0.8rem;
+  border: none;
+  border-radius: 0.5rem;
+  outline: none;
+}
